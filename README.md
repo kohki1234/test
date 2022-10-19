@@ -1,1 +1,1 @@
-README dayo aaaa |  revised again | commit on Oct 19th
+README dayo aaaa |  revised again
