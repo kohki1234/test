@@ -1,1 +1,1 @@
-README dayo aaaa |  revised again | Pull Request
+README dayo aaaa |  revised again
